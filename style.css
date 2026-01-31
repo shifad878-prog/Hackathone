@@ -1,0 +1,55 @@
+/* body  */
+@font-face {
+    font-family: clash display;
+    src: url(./fonts/ClashDisplay-Regular.otf);
+}
+
+/* Navbar section start  */
+:root {
+    --primary:#DBDBDB;
+    --secondary: #FFFFFF;
+    --tertiary:#34213480;
+}
+.color {
+    background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+
+}
+.light-white {
+    color: var(--secondary) !important;
+}
+.dark-white {
+    color: var(--primary) !important;
+}
+
+/* Navbar section end  */
+/* Hero section start  */
+.gradient-text {
+    background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color:transparent
+}
+.bg-color {
+    background: #34213480 !important;
+    backdrop-filter: blur(26px) !important;
+    border: 1px solid !important;
+    border-image: white !important;
+}
+.hidden {
+    overflow: hidden;
+}
+/* features section start  */
+.dark-pink {
+    background: #F9035C;
+}
+.light-pink {
+    background: #F90370;
+}
+.light-purple {
+    background: #D31993;
+}
+.dark-purple {
+    background: #AF2FB5;
+
+}
+
+/* features section start  */

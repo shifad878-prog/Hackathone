@@ -49,7 +49,9 @@
 }
 .dark-purple {
     background: #AF2FB5;
-
+}
+.add-padding {
+    padding-right: 120px;
 }
 
 /* features section start  */

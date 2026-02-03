@@ -54,4 +54,17 @@
     padding-right: 120px;
 }
 
+
+@media screen and (min-width: 577px) and (max-width: 960px) {
+    .footwidth{
+        width: 25%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .footwidth{
+        width: 100%;
+    }
+}
+
 /* features section start  */
